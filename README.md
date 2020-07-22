@@ -1,7 +1,6 @@
 # TiffinBoxRobot
 
-A Simple Arduino based robot.
-General planning and guidelines go here.
+A Simple Arduino based robot car.
 
 ## Pre-requisites
 Installation of [Adafruit Motor Shield Library](https://learn.adafruit.com/adafruit-motor-shield/library-install) is required.
